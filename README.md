@@ -1,3 +1,2 @@
 # Coronavirus analysis
-
-This repo analyzes the activity of coronavirus hashtags on twitter.
+For this assignment, we were given many zip files containing all of the geotagged tweets from October 2019, when the Coronavirus outbreak began. We then went through these tweets and counted the origin of the tweet and also what language it was in. Each of these zip files (one day of tweets) had a corresponding file withe counters for origin of the tweet and the language it was written in. We then reduced all of these files into two files. One file contained the country count for each hashtag and one file contained the language count for each hashtag. Then, for each hashtag, we created a file that contained the 10 countries with themost amount of tweets and the 10 most commin languages that the tweets were in.
